@@ -1,9 +1,9 @@
-:root { 
-     --cor-de-fundo: #dbf8ca;
+:root {
+    --cor-de-fundo: #EBECEE;
 }
 
 body {
-    background-color: var(--cor-de-fundo); color: blanchedalmond;
+    background-color: var(--cor-de-fundo);
 }
 
 h1 {
